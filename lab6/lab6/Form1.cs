@@ -27,7 +27,7 @@ namespace lab6
         {
 
         }
-
+//saving form data by clicking saving button
         private void button1_Click(object sender, EventArgs e)
         {
             string namebx = namebox.Text;
@@ -46,6 +46,10 @@ namespace lab6
             cmd.ExecuteNonQuery();
             MessageBox.Show("recorde has been submitted");
             con.Close();
+            namebox.Text = "";
+            cnicbox.Text = "";
+            emailbox.Text = "";
+            contactbox.Text = "";
 
         }
 
