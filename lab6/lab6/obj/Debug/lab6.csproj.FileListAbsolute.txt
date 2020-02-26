@@ -1,0 +1,9 @@
+C:\Users\Zahid Ali\Desktop\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\Zahid Ali\Desktop\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Zahid Ali\Desktop\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Zahid Ali\Desktop\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\Zahid Ali\Desktop\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\Zahid Ali\Desktop\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\Zahid Ali\Desktop\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\Zahid Ali\Desktop\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\Zahid Ali\Desktop\lab6\lab6\obj\Debug\lab6.pdb
